@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+poetry.lock
+.pytest_cache/
+
+# Unit test / coverage reports
+coverage.xml
+.htmlcov/
+
+# Editor directories and files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw/
+
+# Translations
+*.mo
+*.pot
+
+# Logs
+*.log
+
+# Temporary files
+*.temp
+*.tmp
+
+# User-specific files
+*.csv
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.db-journal
+
+# Results of 'pep8' and 'pylint' inspections
+*.pep8
+*.pylint
+
+# Results of 'pydocstyle' inspection
+*.pydocstyle
+
+# Python 3.6+ __pycache__/ directory
+__pycache__/
+
+# Python 3.6+ __pypackages__/ directory
+__pypackages__/
+
+# virtualenv directory
+.venv/
+.venv3/
+.venv2/
+.venv2.7/
+.venv2.6/
+env/
+env.bak/
+venv/
+venv.bak/
+ENV/
+env3/
+env2/
+env2.7/
+env2.6/
+
+# End of https://www.gitignore.io/api/python,virtualenv
+
