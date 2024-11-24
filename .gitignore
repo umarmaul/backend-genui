@@ -68,6 +68,8 @@ env2/
 env2.7/
 env2.6/
 
+# local env files
+.env*.local
 .env
 
 # End of https://www.gitignore.io/api/python,virtualenv
