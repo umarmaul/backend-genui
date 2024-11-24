@@ -68,5 +68,7 @@ env2/
 env2.7/
 env2.6/
 
+.env
+
 # End of https://www.gitignore.io/api/python,virtualenv
 
